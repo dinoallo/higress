@@ -1,12 +1,12 @@
 [submodule "istio/api"]
 	path = istio/api
 	url = https://github.com/dinoallo/istio-api
-	branch = feat/default_filter_chain
+	branch = default_filter_chain
 	shallow = true
 [submodule "istio/istio"]
 	path = istio/istio
 	url = https://github.com/dinoallo/higress-istio
-	branch = feat/default_filter_chain
+	branch = default_filter_chain
 	shallow = true
 [submodule "istio/client-go"]
 	path = istio/client-go
